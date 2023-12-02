@@ -2,7 +2,7 @@
 
 test progress code
 updates done
-lola
+
 .gitignore will ignore files in the "passwords"folder
 
 
